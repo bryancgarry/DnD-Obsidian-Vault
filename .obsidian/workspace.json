@@ -8,18 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1040e6e32ed3d653",
+            "id": "7081cc9ba640c6e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled Campaign 1/0. Active Party/Zakeed, Son of Zarikk.md",
+                "file": "Untitled Campaign 1/1. Active Party/Zakeed, Son of Zarik.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
+      },
+      {
+        "id": "35fdbf4e85927b59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1040e6e32ed3d653",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled Campaign 1/1. Active Party/0. Party Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39edf7276a30d873",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled Campaign 1/1. Active Party/0. Party Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Campaign 1/0. Active Party/Zakeed, Son of Zarikk.md",
+                "file": "Untitled Campaign 1/1. Active Party/Zakeed, Son of Zarik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Campaign 1/0. Active Party/Zakeed, Son of Zarikk.md",
+                "file": "Untitled Campaign 1/1. Active Party/Zakeed, Son of Zarik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Campaign 1/0. Active Party/Zakeed, Son of Zarikk.md"
+                "file": "Untitled Campaign 1/1. Active Party/Zakeed, Son of Zarik.md"
               }
             }
           }
@@ -146,13 +177,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1040e6e32ed3d653",
+  "active": "aba34961c7c3a7b7",
   "lastOpenFiles": [
-    "Untitled Campaign 1/0. Active Party/Zakeed, Son of Zarikk.md",
-    "Untitled Campaign 1/0. DM Screen.md",
-    "Untitled Campaign 1/0. DM Screen",
-    "Untitled Campaign 1/0. Active Party",
-    "Untitled Campaign 1/1. World Almanac",
-    "Untitled Campaign 1"
+    "Untitled Campaign 1/1. Active Party/Unnamed Character 1.md",
+    "Untitled Campaign 1/1. Active Party/0. Party Summary.md",
+    "Untitled Campaign 1/1. Active Party/Zakeed, Son of Zarik.md",
+    "Untitled Campaign 1/2. Mechanics/Classes/Paladin.md",
+    "Untitled Campaign 1/1. Active Party/Tybalt Shadowstar.md",
+    "Untitled Campaign 1/2. Mechanics/Classes/Monk.md",
+    "Untitled Campaign 1/Untitled Notes Document.md",
+    "Untitled",
+    "Untitle",
+    "Untitled Campaign 1/2. Mechanics/Spells",
+    "Untitled Campaign 1/2. Mechanics/Non-Player Characters",
+    "Untitled Campaign 1/2. Mechanics/Languages",
+    "Untitled Campaign 1/2. Mechanics/Items",
+    "Untitled Campaign 1/2. Mechanics/Guilds and Groups",
+    "Untitled Campaign 1/2. Mechanics/Feats",
+    "Untitled Campaign 1/2. Mechanics/Deities",
+    "Untitled Campaign 1/2. Mechanics/Classes",
+    "Untitled Campaign 1/0. DM Screen.md"
   ]
 }
