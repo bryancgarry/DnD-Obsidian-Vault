@@ -76,11 +76,35 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
+=======
+            "id": "7a17c91f062986c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled Campaign 1/2. Mechanics/Classes/Wizard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+>>>>>>> 8f0c780a6ae3c95fd4ca7056873401bda50485c4
             "id": "0089de0abd58f4bc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "Untitled Campaign 1/2. Mechanics/Classes/Wizard.md",
+>>>>>>> 8f0c780a6ae3c95fd4ca7056873401bda50485c4
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,6 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {}
             }
           },
@@ -111,6 +136,11 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {}
+=======
+              "state": {
+                "file": "Untitled Campaign 1/2. Mechanics/Classes/Wizard.md"
+              }
+>>>>>>> 8f0c780a6ae3c95fd4ca7056873401bda50485c4
             }
           }
         ],
@@ -133,9 +163,14 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
+<<<<<<< HEAD
   "active": "495e303e9e12bf42",
   "lastOpenFiles": [
     "Untitled Campaign 1/2. Mechanics/Classes/Wizard.md",
+=======
+  "active": "141a40b8b87e11d1",
+  "lastOpenFiles": [
+>>>>>>> 8f0c780a6ae3c95fd4ca7056873401bda50485c4
     "Untitled Campaign 1/1. Active Party/0. Party Summary.md",
     "Untitled Campaign 1/1. Active Party/Jeff.md",
     "Untitled Campaign 1/1. Active Party/Zakeed, Son of Zarik.md",
