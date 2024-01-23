@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Campaign 1/1. Active Party/0. Party Summary.md",
+                "file": "Untitled Campaign 1/2. Mechanics/Classes/Wizard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Campaign 1/1. Active Party/0. Party Summary.md",
+                "file": "Untitled Campaign 1/2. Mechanics/Classes/Wizard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Campaign 1/1. Active Party/0. Party Summary.md"
+                "file": "Untitled Campaign 1/2. Mechanics/Classes/Wizard.md"
               }
             }
           }
@@ -177,10 +177,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39edf7276a30d873",
+  "active": "141a40b8b87e11d1",
   "lastOpenFiles": [
-    "Untitled Campaign 1/1. Active Party/Jeff.md",
     "Untitled Campaign 1/1. Active Party/0. Party Summary.md",
+    "Untitled Campaign 1/1. Active Party/Jeff.md",
     "Untitled Campaign 1/1. Active Party/Zakeed, Son of Zarik.md",
     "Untitled Campaign 1/1. Active Party/Unnamed Character 1.md",
     "Untitled Campaign 1/2. Mechanics/Classes/Wizard.md",
